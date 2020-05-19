@@ -1,0 +1,13 @@
+C:\Users\Drinoff\source\repos\examsFund\counterStrike\bin\Debug\netcoreapp3.1\counterStrike.exe
+C:\Users\Drinoff\source\repos\examsFund\counterStrike\bin\Debug\netcoreapp3.1\counterStrike.deps.json
+C:\Users\Drinoff\source\repos\examsFund\counterStrike\bin\Debug\netcoreapp3.1\counterStrike.runtimeconfig.json
+C:\Users\Drinoff\source\repos\examsFund\counterStrike\bin\Debug\netcoreapp3.1\counterStrike.runtimeconfig.dev.json
+C:\Users\Drinoff\source\repos\examsFund\counterStrike\bin\Debug\netcoreapp3.1\counterStrike.dll
+C:\Users\Drinoff\source\repos\examsFund\counterStrike\bin\Debug\netcoreapp3.1\counterStrike.pdb
+C:\Users\Drinoff\source\repos\examsFund\counterStrike\obj\Debug\netcoreapp3.1\counterStrike.csprojAssemblyReference.cache
+C:\Users\Drinoff\source\repos\examsFund\counterStrike\obj\Debug\netcoreapp3.1\counterStrike.csproj.CoreCompileInputs.cache
+C:\Users\Drinoff\source\repos\examsFund\counterStrike\obj\Debug\netcoreapp3.1\counterStrike.AssemblyInfoInputs.cache
+C:\Users\Drinoff\source\repos\examsFund\counterStrike\obj\Debug\netcoreapp3.1\counterStrike.AssemblyInfo.cs
+C:\Users\Drinoff\source\repos\examsFund\counterStrike\obj\Debug\netcoreapp3.1\counterStrike.dll
+C:\Users\Drinoff\source\repos\examsFund\counterStrike\obj\Debug\netcoreapp3.1\counterStrike.pdb
+C:\Users\Drinoff\source\repos\examsFund\counterStrike\obj\Debug\netcoreapp3.1\counterStrike.genruntimeconfig.cache

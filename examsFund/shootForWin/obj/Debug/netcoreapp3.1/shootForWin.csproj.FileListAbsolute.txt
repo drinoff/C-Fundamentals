@@ -1,0 +1,13 @@
+C:\Users\Drinoff\source\repos\examsFund\shootForWin\bin\Debug\netcoreapp3.1\shootForWin.exe
+C:\Users\Drinoff\source\repos\examsFund\shootForWin\bin\Debug\netcoreapp3.1\shootForWin.deps.json
+C:\Users\Drinoff\source\repos\examsFund\shootForWin\bin\Debug\netcoreapp3.1\shootForWin.runtimeconfig.json
+C:\Users\Drinoff\source\repos\examsFund\shootForWin\bin\Debug\netcoreapp3.1\shootForWin.runtimeconfig.dev.json
+C:\Users\Drinoff\source\repos\examsFund\shootForWin\bin\Debug\netcoreapp3.1\shootForWin.dll
+C:\Users\Drinoff\source\repos\examsFund\shootForWin\bin\Debug\netcoreapp3.1\shootForWin.pdb
+C:\Users\Drinoff\source\repos\examsFund\shootForWin\obj\Debug\netcoreapp3.1\shootForWin.csprojAssemblyReference.cache
+C:\Users\Drinoff\source\repos\examsFund\shootForWin\obj\Debug\netcoreapp3.1\shootForWin.csproj.CoreCompileInputs.cache
+C:\Users\Drinoff\source\repos\examsFund\shootForWin\obj\Debug\netcoreapp3.1\shootForWin.AssemblyInfoInputs.cache
+C:\Users\Drinoff\source\repos\examsFund\shootForWin\obj\Debug\netcoreapp3.1\shootForWin.AssemblyInfo.cs
+C:\Users\Drinoff\source\repos\examsFund\shootForWin\obj\Debug\netcoreapp3.1\shootForWin.dll
+C:\Users\Drinoff\source\repos\examsFund\shootForWin\obj\Debug\netcoreapp3.1\shootForWin.pdb
+C:\Users\Drinoff\source\repos\examsFund\shootForWin\obj\Debug\netcoreapp3.1\shootForWin.genruntimeconfig.cache

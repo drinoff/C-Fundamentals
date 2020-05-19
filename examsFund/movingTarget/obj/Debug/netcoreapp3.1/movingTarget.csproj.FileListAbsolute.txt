@@ -1,0 +1,13 @@
+C:\Users\Drinoff\source\repos\examsFund\movingTarget\bin\Debug\netcoreapp3.1\movingTarget.exe
+C:\Users\Drinoff\source\repos\examsFund\movingTarget\bin\Debug\netcoreapp3.1\movingTarget.deps.json
+C:\Users\Drinoff\source\repos\examsFund\movingTarget\bin\Debug\netcoreapp3.1\movingTarget.runtimeconfig.json
+C:\Users\Drinoff\source\repos\examsFund\movingTarget\bin\Debug\netcoreapp3.1\movingTarget.runtimeconfig.dev.json
+C:\Users\Drinoff\source\repos\examsFund\movingTarget\bin\Debug\netcoreapp3.1\movingTarget.dll
+C:\Users\Drinoff\source\repos\examsFund\movingTarget\bin\Debug\netcoreapp3.1\movingTarget.pdb
+C:\Users\Drinoff\source\repos\examsFund\movingTarget\obj\Debug\netcoreapp3.1\movingTarget.csprojAssemblyReference.cache
+C:\Users\Drinoff\source\repos\examsFund\movingTarget\obj\Debug\netcoreapp3.1\movingTarget.csproj.CoreCompileInputs.cache
+C:\Users\Drinoff\source\repos\examsFund\movingTarget\obj\Debug\netcoreapp3.1\movingTarget.AssemblyInfoInputs.cache
+C:\Users\Drinoff\source\repos\examsFund\movingTarget\obj\Debug\netcoreapp3.1\movingTarget.AssemblyInfo.cs
+C:\Users\Drinoff\source\repos\examsFund\movingTarget\obj\Debug\netcoreapp3.1\movingTarget.dll
+C:\Users\Drinoff\source\repos\examsFund\movingTarget\obj\Debug\netcoreapp3.1\movingTarget.pdb
+C:\Users\Drinoff\source\repos\examsFund\movingTarget\obj\Debug\netcoreapp3.1\movingTarget.genruntimeconfig.cache
