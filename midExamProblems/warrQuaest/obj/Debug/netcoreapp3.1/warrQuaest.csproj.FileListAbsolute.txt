@@ -1,0 +1,13 @@
+C:\Users\Drinoff\source\repos\midExamProblems\warrQuaest\bin\Debug\netcoreapp3.1\warrQuaest.exe
+C:\Users\Drinoff\source\repos\midExamProblems\warrQuaest\bin\Debug\netcoreapp3.1\warrQuaest.deps.json
+C:\Users\Drinoff\source\repos\midExamProblems\warrQuaest\bin\Debug\netcoreapp3.1\warrQuaest.runtimeconfig.json
+C:\Users\Drinoff\source\repos\midExamProblems\warrQuaest\bin\Debug\netcoreapp3.1\warrQuaest.runtimeconfig.dev.json
+C:\Users\Drinoff\source\repos\midExamProblems\warrQuaest\bin\Debug\netcoreapp3.1\warrQuaest.dll
+C:\Users\Drinoff\source\repos\midExamProblems\warrQuaest\bin\Debug\netcoreapp3.1\warrQuaest.pdb
+C:\Users\Drinoff\source\repos\midExamProblems\warrQuaest\obj\Debug\netcoreapp3.1\warrQuaest.csprojAssemblyReference.cache
+C:\Users\Drinoff\source\repos\midExamProblems\warrQuaest\obj\Debug\netcoreapp3.1\warrQuaest.csproj.CoreCompileInputs.cache
+C:\Users\Drinoff\source\repos\midExamProblems\warrQuaest\obj\Debug\netcoreapp3.1\warrQuaest.AssemblyInfoInputs.cache
+C:\Users\Drinoff\source\repos\midExamProblems\warrQuaest\obj\Debug\netcoreapp3.1\warrQuaest.AssemblyInfo.cs
+C:\Users\Drinoff\source\repos\midExamProblems\warrQuaest\obj\Debug\netcoreapp3.1\warrQuaest.dll
+C:\Users\Drinoff\source\repos\midExamProblems\warrQuaest\obj\Debug\netcoreapp3.1\warrQuaest.pdb
+C:\Users\Drinoff\source\repos\midExamProblems\warrQuaest\obj\Debug\netcoreapp3.1\warrQuaest.genruntimeconfig.cache
