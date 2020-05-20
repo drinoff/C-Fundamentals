@@ -1,0 +1,13 @@
+C:\Users\Drinoff\source\repos\basicSyntaxLab\ages\bin\Debug\netcoreapp3.1\ages.exe
+C:\Users\Drinoff\source\repos\basicSyntaxLab\ages\bin\Debug\netcoreapp3.1\ages.deps.json
+C:\Users\Drinoff\source\repos\basicSyntaxLab\ages\bin\Debug\netcoreapp3.1\ages.runtimeconfig.json
+C:\Users\Drinoff\source\repos\basicSyntaxLab\ages\bin\Debug\netcoreapp3.1\ages.runtimeconfig.dev.json
+C:\Users\Drinoff\source\repos\basicSyntaxLab\ages\bin\Debug\netcoreapp3.1\ages.dll
+C:\Users\Drinoff\source\repos\basicSyntaxLab\ages\bin\Debug\netcoreapp3.1\ages.pdb
+C:\Users\Drinoff\source\repos\basicSyntaxLab\ages\obj\Debug\netcoreapp3.1\ages.csprojAssemblyReference.cache
+C:\Users\Drinoff\source\repos\basicSyntaxLab\ages\obj\Debug\netcoreapp3.1\ages.csproj.CoreCompileInputs.cache
+C:\Users\Drinoff\source\repos\basicSyntaxLab\ages\obj\Debug\netcoreapp3.1\ages.AssemblyInfoInputs.cache
+C:\Users\Drinoff\source\repos\basicSyntaxLab\ages\obj\Debug\netcoreapp3.1\ages.AssemblyInfo.cs
+C:\Users\Drinoff\source\repos\basicSyntaxLab\ages\obj\Debug\netcoreapp3.1\ages.dll
+C:\Users\Drinoff\source\repos\basicSyntaxLab\ages\obj\Debug\netcoreapp3.1\ages.pdb
+C:\Users\Drinoff\source\repos\basicSyntaxLab\ages\obj\Debug\netcoreapp3.1\ages.genruntimeconfig.cache
