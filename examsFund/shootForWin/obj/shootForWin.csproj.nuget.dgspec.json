@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Drinoff\\source\\repos\\examsFund\\shootForWin\\shootForWin.csproj": {}
+    "C:\\Users\\Drinoff\\source\\examsFund\\shootForWin\\shootForWin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Drinoff\\source\\repos\\examsFund\\shootForWin\\shootForWin.csproj": {
+    "C:\\Users\\Drinoff\\source\\examsFund\\shootForWin\\shootForWin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Drinoff\\source\\repos\\examsFund\\shootForWin\\shootForWin.csproj",
+        "projectUniqueName": "C:\\Users\\Drinoff\\source\\examsFund\\shootForWin\\shootForWin.csproj",
         "projectName": "shootForWin",
-        "projectPath": "C:\\Users\\Drinoff\\source\\repos\\examsFund\\shootForWin\\shootForWin.csproj",
+        "projectPath": "C:\\Users\\Drinoff\\source\\examsFund\\shootForWin\\shootForWin.csproj",
         "packagesPath": "C:\\Users\\Drinoff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Drinoff\\source\\repos\\examsFund\\shootForWin\\obj\\",
+        "outputPath": "C:\\Users\\Drinoff\\source\\examsFund\\shootForWin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

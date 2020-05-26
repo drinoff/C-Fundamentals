@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Drinoff\\source\\repos\\examsFund\\movingTarget\\movingTarget.csproj": {}
+    "C:\\Users\\Drinoff\\source\\examsFund\\movingTarget\\movingTarget.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Drinoff\\source\\repos\\examsFund\\movingTarget\\movingTarget.csproj": {
+    "C:\\Users\\Drinoff\\source\\examsFund\\movingTarget\\movingTarget.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Drinoff\\source\\repos\\examsFund\\movingTarget\\movingTarget.csproj",
+        "projectUniqueName": "C:\\Users\\Drinoff\\source\\examsFund\\movingTarget\\movingTarget.csproj",
         "projectName": "movingTarget",
-        "projectPath": "C:\\Users\\Drinoff\\source\\repos\\examsFund\\movingTarget\\movingTarget.csproj",
+        "projectPath": "C:\\Users\\Drinoff\\source\\examsFund\\movingTarget\\movingTarget.csproj",
         "packagesPath": "C:\\Users\\Drinoff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Drinoff\\source\\repos\\examsFund\\movingTarget\\obj\\",
+        "outputPath": "C:\\Users\\Drinoff\\source\\examsFund\\movingTarget\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -19,22 +19,17 @@ namespace movingTarget
                 switch (command[0])
                 {
                     case "Shoot":
-                        if (index < target.Count && target[index] != 0)
+                        if (index < target.Count && index>=0)
                         {
                             target[index] -= actionPower;
                             if (target[index] <=0)
                             {
                                 target.RemoveAt(index);
                             }
-                        }
-                        else
-                        {
-
-                        }
-
+                        }                       
                         break;
                     case "Add":
-                        if (index < target.Count)
+                        if (index < target.Count && index>=0)
                         {
                             target.Insert(index, actionPower);
                         }
@@ -42,7 +37,6 @@ namespace movingTarget
                         {
                             Console.WriteLine("Invalid placement!");
                         }
-
                         break;
                     case "Strike":
                         if (index+actionPower< target.Count && index-actionPower>=0)
@@ -53,7 +47,6 @@ namespace movingTarget
                         {
                             Console.WriteLine("Strike missed!");
                         }
-
                         break;
                 }
                 input = Console.ReadLine();

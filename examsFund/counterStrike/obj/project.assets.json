@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Drinoff\\source\\repos\\examsFund\\counterStrike\\counterStrike.csproj",
+      "projectUniqueName": "C:\\Users\\Drinoff\\source\\examsFund\\counterStrike\\counterStrike.csproj",
       "projectName": "counterStrike",
-      "projectPath": "C:\\Users\\Drinoff\\source\\repos\\examsFund\\counterStrike\\counterStrike.csproj",
+      "projectPath": "C:\\Users\\Drinoff\\source\\examsFund\\counterStrike\\counterStrike.csproj",
       "packagesPath": "C:\\Users\\Drinoff\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Drinoff\\source\\repos\\examsFund\\counterStrike\\obj\\",
+      "outputPath": "C:\\Users\\Drinoff\\source\\examsFund\\counterStrike\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

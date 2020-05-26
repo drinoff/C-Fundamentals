@@ -6,7 +6,7 @@ namespace integerOps
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(((int.Parse(Console.ReadLine()) + int.Parse(Console.ReadLine())) / int.Parse(Console.ReadLine())) * int.Parse(Console.ReadLine()));
         }
     }
 }
