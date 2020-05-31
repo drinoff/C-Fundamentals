@@ -10,77 +10,44 @@ namespace kaminoFactory
     {
         static void Main(string[] args)
         {
-            int dnaLength = int.Parse(Console.ReadLine());
+            var dnaLength = Console.ReadLine();
+            var input = Console.ReadLine();
 
-            string input = Console.ReadLine();
-            int[] bestDNA = new int[dnaLength];
 
-            int counter1 = 1;
-            int counter2 = 0;
-            int result1 = 0;
-            int result2 = 0;
-            var startingIndex = 0;
-            var dnaSample = 0;
+            var bestcounter = 1;
+            var currentCounter = 1;
+            int leftIndex = 0;
+            var bestDna = new int[dnaLength.Length];
+
 
             while (input != "Clone them!")
             {
+                var sequence = input
+                    .Split("!")
+                    .Select(int.Parse)
+                    .ToArray();
 
-                int[] sequence = input.Split("!").Select(int.Parse).ToArray();
-
-                for (int i = 1; i < sequence.Length; i++)
+                for (int i = 0; i < sequence.Length; i++)
                 {
-                    if (sequence[i] != sequence[i - 1])
+                    if (i + 1 == i && i == 1)
                     {
-                        counter1 = 0;
+                        currentCounter++;
                     }
-                    counter1++;
-                }
-
-                
-
-                if (counter1 + 1 > counter2)
-                {
-                    bestDNA = sequence;
-                    dnaSample++;
-                    counter2 = counter1 + 1;
-                    counter1 = 0;
-                }
-                else if (counter2 > counter1)
-                {
-                    goto End;
-                }
-                else
-                {
-                    foreach (var item in sequence)
+                    else
                     {
-                        if (sequence[item] > bestDNA[item])
+                        if (currentCounter > bestcounter)
                         {
-                            bestDNA = sequence;
-                            dnaSample++;
-                            break;
+                            bestDna = sequence;
+                            bestcounter = currentCounter;
+                            leftIndex = currentCounter - i;
+                            currentCounter = 1;
                         }
 
-                    }
-                    result2 = bestDNA.Sum();
-                    result1 = sequence.Sum();
-                    if (result1 > result2)
-                    {
-                        bestDNA = sequence;
-                        dnaSample++;
-                        counter1 = counter2;
-                    }
 
 
+                    }
                 }
-
-            End:
-                input = Console.ReadLine();
-
-            }
-
-            Console.WriteLine($"Best DNA sample {dnaSample} with sum: {result2}.");
-            Console.WriteLine(string.Join(" ", bestDNA));
-
+            }   
 
         }
     }

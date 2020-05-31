@@ -7,20 +7,20 @@ namespace pascalTriangle
     {
         static void Main(string[] args)
         {
-            var rowsCount = int.Parse(Console.ReadLine());
-            int[,] pascalMatrix = new int[rowsCount, rowsCount];
-
-            if (rowsCount >= 0)
+            long rowsCount = long.Parse(Console.ReadLine());
+            int[,] pascalMatrix = new int[rowsCount, rowsCount];           
+            if (rowsCount >= 1)
             {
                 pascalMatrix[0, 0] = 1;
             }
-            if (rowsCount >= 1)
+            if (rowsCount >= 2)
             {
                 pascalMatrix[1, 0] = 1;
                 pascalMatrix[1, 1] = 1;
 
             }
-            
+
+            if (rowsCount>=3)
             for (int rows = 2; rows < rowsCount; rows++)
             {
                 for (int cols = 1; cols < rowsCount; cols++)
