@@ -43,11 +43,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "enqryptSortArr", "enqryptSo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pascalTriangle", "pascalTriangle\pascalTriangle.csproj", "{C429A4BB-E795-4939-A7D6-3F7E7C40FEE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recursiveFibonachi", "recursiveFibonachi\recursiveFibonachi.csproj", "{3573BD01-13A2-493C-8E2E-B950F37BE092}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "recursiveFibonachi", "recursiveFibonachi\recursiveFibonachi.csproj", "{3573BD01-13A2-493C-8E2E-B950F37BE092}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foldAndSum", "foldAndSum\foldAndSum.csproj", "{6DA3038C-BF63-4A38-8AEA-7CB8AD3FCF00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "foldAndSum", "foldAndSum\foldAndSum.csproj", "{6DA3038C-BF63-4A38-8AEA-7CB8AD3FCF00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longestIncreasingSubsequence", "longestIncreasingSubsequence\longestIncreasingSubsequence.csproj", "{567F2267-DACC-48EA-BD57-473642481244}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "longestIncreasingSubsequence", "longestIncreasingSubsequence\longestIncreasingSubsequence.csproj", "{567F2267-DACC-48EA-BD57-473642481244}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaminoFactory2", "KaminoFactory2\KaminoFactory2.csproj", "{B6BB35EF-80D9-42DE-808E-8CED251CC781}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{567F2267-DACC-48EA-BD57-473642481244}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{567F2267-DACC-48EA-BD57-473642481244}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{567F2267-DACC-48EA-BD57-473642481244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6BB35EF-80D9-42DE-808E-8CED251CC781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BB35EF-80D9-42DE-808E-8CED251CC781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BB35EF-80D9-42DE-808E-8CED251CC781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BB35EF-80D9-42DE-808E-8CED251CC781}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
