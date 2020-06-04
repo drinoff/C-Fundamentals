@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "foldAndSum", "foldAndSum\fo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "longestIncreasingSubsequence", "longestIncreasingSubsequence\longestIncreasingSubsequence.csproj", "{567F2267-DACC-48EA-BD57-473642481244}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaminoFactory2", "KaminoFactory2\KaminoFactory2.csproj", "{B6BB35EF-80D9-42DE-808E-8CED251CC781}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KaminoFactory2", "KaminoFactory2\KaminoFactory2.csproj", "{B6BB35EF-80D9-42DE-808E-8CED251CC781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "largestCommonEnd", "largestCommonEnd\largestCommonEnd.csproj", "{92575547-DF06-4ED1-853B-A6B4F7041E9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{B6BB35EF-80D9-42DE-808E-8CED251CC781}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6BB35EF-80D9-42DE-808E-8CED251CC781}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6BB35EF-80D9-42DE-808E-8CED251CC781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92575547-DF06-4ED1-853B-A6B4F7041E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92575547-DF06-4ED1-853B-A6B4F7041E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92575547-DF06-4ED1-853B-A6B4F7041E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92575547-DF06-4ED1-853B-A6B4F7041E9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,19 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumAdjecentEqualNums", "sumAdjecentEqualNums\sumAdjecentEqualNums.csproj", "{70D01F17-829B-462A-A793-9B72081F9826}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sumAdjecentEqualNums", "sumAdjecentEqualNums\sumAdjecentEqualNums.csproj", "{70D01F17-829B-462A-A793-9B72081F9826}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GausTrick", "GausTrick\GausTrick.csproj", "{389510F2-F815-44DA-8930-3573AC10AB7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GausTrick", "GausTrick\GausTrick.csproj", "{389510F2-F815-44DA-8930-3573AC10AB7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mergingLists", "mergingLists\mergingLists.csproj", "{FA288184-D2FE-46DE-A470-0F838E3B1945}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mergingLists", "mergingLists\mergingLists.csproj", "{FA288184-D2FE-46DE-A470-0F838E3B1945}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listOfProducts", "listOfProducts\listOfProducts.csproj", "{BE3FB06D-21F7-4A32-A920-1A517FEFC49C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "listOfProducts", "listOfProducts\listOfProducts.csproj", "{BE3FB06D-21F7-4A32-A920-1A517FEFC49C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNegativesAndReverse", "RemoveNegativesAndReverse\RemoveNegativesAndReverse.csproj", "{556E28CD-3423-43F7-ADF5-143CF893365C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveNegativesAndReverse", "RemoveNegativesAndReverse\RemoveNegativesAndReverse.csproj", "{556E28CD-3423-43F7-ADF5-143CF893365C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listManipulationBasics", "listManipulationBasics\listManipulationBasics.csproj", "{2A1173D1-CD11-4A37-8510-1D7F2516A991}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "listManipulationBasics", "listManipulationBasics\listManipulationBasics.csproj", "{2A1173D1-CD11-4A37-8510-1D7F2516A991}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListManipulationAdvanced", "ListManipulationAdvanced\ListManipulationAdvanced.csproj", "{5F9BC43D-0901-4AD5-952C-CDBE844AD618}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListManipulationAdvanced", "ListManipulationAdvanced\ListManipulationAdvanced.csproj", "{5F9BC43D-0901-4AD5-952C-CDBE844AD618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "train", "train\train.csproj", "{E90B0941-6D43-41EA-980F-A16F05DFB013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "changeList", "changeList\changeList.csproj", "{03589E07-20BF-49F0-9D9A-1AA1E678B88E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "houseParty", "houseParty\houseParty.csproj", "{3B2A52B2-7BEC-4B8B-B15C-D852E0ADD5A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listOps", "listOps\listOps.csproj", "{ABA65F20-0489-4E4B-898D-4F0BAB7C64D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bombNums", "bombNums\bombNums.csproj", "{08C9B939-6EC1-43FF-ABE7-1B9149923A50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +61,26 @@ Global
 		{5F9BC43D-0901-4AD5-952C-CDBE844AD618}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F9BC43D-0901-4AD5-952C-CDBE844AD618}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F9BC43D-0901-4AD5-952C-CDBE844AD618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90B0941-6D43-41EA-980F-A16F05DFB013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90B0941-6D43-41EA-980F-A16F05DFB013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90B0941-6D43-41EA-980F-A16F05DFB013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90B0941-6D43-41EA-980F-A16F05DFB013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03589E07-20BF-49F0-9D9A-1AA1E678B88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03589E07-20BF-49F0-9D9A-1AA1E678B88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03589E07-20BF-49F0-9D9A-1AA1E678B88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03589E07-20BF-49F0-9D9A-1AA1E678B88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B2A52B2-7BEC-4B8B-B15C-D852E0ADD5A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2A52B2-7BEC-4B8B-B15C-D852E0ADD5A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2A52B2-7BEC-4B8B-B15C-D852E0ADD5A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2A52B2-7BEC-4B8B-B15C-D852E0ADD5A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA65F20-0489-4E4B-898D-4F0BAB7C64D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA65F20-0489-4E4B-898D-4F0BAB7C64D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA65F20-0489-4E4B-898D-4F0BAB7C64D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA65F20-0489-4E4B-898D-4F0BAB7C64D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C9B939-6EC1-43FF-ABE7-1B9149923A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C9B939-6EC1-43FF-ABE7-1B9149923A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C9B939-6EC1-43FF-ABE7-1B9149923A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C9B939-6EC1-43FF-ABE7-1B9149923A50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

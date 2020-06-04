@@ -28,11 +28,11 @@ namespace kaminoFactory
             while (input != "Clone them!")
             {
                 var sequence = input
-                    .Split("!")
+                    .Split("!", StringSplitOptions.RemoveEmptyEntries)
                     .Select(int.Parse)
                     .ToArray();
 
-                for (int i = 0; i < sequence.Length-1; i++)
+                for (int i = 0; i < sequence.Length - 1; i++)
                 {
                     if (sequence[i] == 1)
                     {
@@ -50,8 +50,8 @@ namespace kaminoFactory
                             {
                                 bestLeftIndex = leftIndex;
                             }
-                            
-                            
+
+
                         }
                     }
                     else
@@ -107,34 +107,6 @@ namespace kaminoFactory
             Console.WriteLine($"Best DNA sample {bestSeqinputCount} with sum: {result1}.");
             Console.WriteLine(string.Join(" ", bestSequence));
 
-        }
-        static int LongestSeqAndLeftIndex(int [])
-        {
-            for (int i = 0; i < sequence.Length - 1; i++)
-            {
-                if (sequence[i] == 1)
-                {
-                    if (sequence[i + 1] == 1)
-                    {
-                        currentCounter++;
-                    }
-                    else
-                    {
-                        currentCounter++;
-                        bestDna = sequence;
-                        bestCounter = currentCounter;
-                        leftIndex = i - currentCounter + 1;
-                        if (anotherFokinCOunter > 1)
-                        {
-                            bestLeftIndex = leftIndex;
-                        }
-                    }
-                }
-                else
-                {
-                    currentCounter = 0;
-                }
-            }
         }
     }
 }
