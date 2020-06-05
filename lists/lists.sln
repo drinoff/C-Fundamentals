@@ -17,15 +17,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "listManipulationBasics", "l
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListManipulationAdvanced", "ListManipulationAdvanced\ListManipulationAdvanced.csproj", "{5F9BC43D-0901-4AD5-952C-CDBE844AD618}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "train", "train\train.csproj", "{E90B0941-6D43-41EA-980F-A16F05DFB013}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "train", "train\train.csproj", "{E90B0941-6D43-41EA-980F-A16F05DFB013}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "changeList", "changeList\changeList.csproj", "{03589E07-20BF-49F0-9D9A-1AA1E678B88E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "changeList", "changeList\changeList.csproj", "{03589E07-20BF-49F0-9D9A-1AA1E678B88E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "houseParty", "houseParty\houseParty.csproj", "{3B2A52B2-7BEC-4B8B-B15C-D852E0ADD5A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "houseParty", "houseParty\houseParty.csproj", "{3B2A52B2-7BEC-4B8B-B15C-D852E0ADD5A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listOps", "listOps\listOps.csproj", "{ABA65F20-0489-4E4B-898D-4F0BAB7C64D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "listOps", "listOps\listOps.csproj", "{ABA65F20-0489-4E4B-898D-4F0BAB7C64D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bombNums", "bombNums\bombNums.csproj", "{08C9B939-6EC1-43FF-ABE7-1B9149923A50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bombNums", "bombNums\bombNums.csproj", "{08C9B939-6EC1-43FF-ABE7-1B9149923A50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cardGame", "cardGame\cardGame.csproj", "{8849D60A-9FDC-46B8-AD08-31CC0C0DA9F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{08C9B939-6EC1-43FF-ABE7-1B9149923A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08C9B939-6EC1-43FF-ABE7-1B9149923A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08C9B939-6EC1-43FF-ABE7-1B9149923A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8849D60A-9FDC-46B8-AD08-31CC0C0DA9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8849D60A-9FDC-46B8-AD08-31CC0C0DA9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8849D60A-9FDC-46B8-AD08-31CC0C0DA9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8849D60A-9FDC-46B8-AD08-31CC0C0DA9F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
