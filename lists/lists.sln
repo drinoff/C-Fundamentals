@@ -27,7 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "listOps", "listOps\listOps.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bombNums", "bombNums\bombNums.csproj", "{08C9B939-6EC1-43FF-ABE7-1B9149923A50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cardGame", "cardGame\cardGame.csproj", "{8849D60A-9FDC-46B8-AD08-31CC0C0DA9F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cardGame", "cardGame\cardGame.csproj", "{8849D60A-9FDC-46B8-AD08-31CC0C0DA9F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appendArrays", "appendArrays\appendArrays.csproj", "{1247A210-2AE5-4DBE-A90C-96937130C415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anonymousThreat", "anonymousThreat\anonymousThreat.csproj", "{F6C646D2-0D0C-4BC8-8182-08D19CEF5059}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{8849D60A-9FDC-46B8-AD08-31CC0C0DA9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8849D60A-9FDC-46B8-AD08-31CC0C0DA9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8849D60A-9FDC-46B8-AD08-31CC0C0DA9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1247A210-2AE5-4DBE-A90C-96937130C415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1247A210-2AE5-4DBE-A90C-96937130C415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1247A210-2AE5-4DBE-A90C-96937130C415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1247A210-2AE5-4DBE-A90C-96937130C415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C646D2-0D0C-4BC8-8182-08D19CEF5059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C646D2-0D0C-4BC8-8182-08D19CEF5059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C646D2-0D0C-4BC8-8182-08D19CEF5059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C646D2-0D0C-4BC8-8182-08D19CEF5059}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
