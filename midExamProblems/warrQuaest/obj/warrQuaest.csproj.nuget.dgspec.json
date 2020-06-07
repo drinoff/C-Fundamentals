@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Drinoff\\source\\repos\\midExamProblems\\warrQuaest\\warrQuaest.csproj": {}
+    "C:\\Users\\Drinoff\\source\\midExamProblems\\warrQuaest\\warrQuaest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Drinoff\\source\\repos\\midExamProblems\\warrQuaest\\warrQuaest.csproj": {
+    "C:\\Users\\Drinoff\\source\\midExamProblems\\warrQuaest\\warrQuaest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Drinoff\\source\\repos\\midExamProblems\\warrQuaest\\warrQuaest.csproj",
+        "projectUniqueName": "C:\\Users\\Drinoff\\source\\midExamProblems\\warrQuaest\\warrQuaest.csproj",
         "projectName": "warrQuaest",
-        "projectPath": "C:\\Users\\Drinoff\\source\\repos\\midExamProblems\\warrQuaest\\warrQuaest.csproj",
+        "projectPath": "C:\\Users\\Drinoff\\source\\midExamProblems\\warrQuaest\\warrQuaest.csproj",
         "packagesPath": "C:\\Users\\Drinoff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Drinoff\\source\\repos\\midExamProblems\\warrQuaest\\obj\\",
+        "outputPath": "C:\\Users\\Drinoff\\source\\midExamProblems\\warrQuaest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
