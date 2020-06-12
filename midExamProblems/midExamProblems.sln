@@ -5,11 +5,17 @@ VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "warrQuaest", "warrQuaest\warrQuaest.csproj", "{4247F564-26FF-4A90-91A9-1A31423E5176}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "biscuitsFactory", "biscuitsFactory\biscuitsFactory.csproj", "{4D904BD6-7AD2-4197-9293-3C8B1C0706A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "biscuitsFactory", "biscuitsFactory\biscuitsFactory.csproj", "{4D904BD6-7AD2-4197-9293-3C8B1C0706A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "weaponsmith", "weaponsmith\weaponsmith.csproj", "{80CC38CC-EFC7-4AD2-8058-C27F0B0B318E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "weaponsmith", "weaponsmith\weaponsmith.csproj", "{80CC38CC-EFC7-4AD2-8058-C27F0B0B318E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wizzardPoker", "wizzardPoker\wizzardPoker.csproj", "{77FC97A3-4B61-4229-AC45-97EE37112E2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wizzardPoker", "wizzardPoker\wizzardPoker.csproj", "{77FC97A3-4B61-4229-AC45-97EE37112E2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "disneylandJourney", "disneylandJourney\disneylandJourney.csproj", "{D9FD1FE7-6712-4A34-90C5-753466B0BFB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "archeryTournament", "archeryTournament\archeryTournament.csproj", "{554D7F04-E93B-40E6-A1B3-34AE1FCCFF47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schoolLibrary", "schoolLibrary\schoolLibrary.csproj", "{B50BC9AF-761A-4C96-BE8F-17CFA657641C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{77FC97A3-4B61-4229-AC45-97EE37112E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77FC97A3-4B61-4229-AC45-97EE37112E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77FC97A3-4B61-4229-AC45-97EE37112E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9FD1FE7-6712-4A34-90C5-753466B0BFB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9FD1FE7-6712-4A34-90C5-753466B0BFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9FD1FE7-6712-4A34-90C5-753466B0BFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9FD1FE7-6712-4A34-90C5-753466B0BFB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{554D7F04-E93B-40E6-A1B3-34AE1FCCFF47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{554D7F04-E93B-40E6-A1B3-34AE1FCCFF47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{554D7F04-E93B-40E6-A1B3-34AE1FCCFF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{554D7F04-E93B-40E6-A1B3-34AE1FCCFF47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B50BC9AF-761A-4C96-BE8F-17CFA657641C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50BC9AF-761A-4C96-BE8F-17CFA657641C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50BC9AF-761A-4C96-BE8F-17CFA657641C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50BC9AF-761A-4C96-BE8F-17CFA657641C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
