@@ -17,13 +17,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "archeryTournament", "archer
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "schoolLibrary", "schoolLibrary\schoolLibrary.csproj", "{B50BC9AF-761A-4C96-BE8F-17CFA657641C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nationalCourt", "nationalCourt\nationalCourt.csproj", "{BA4BAD2E-5C12-4563-B5EB-0010472540CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nationalCourt", "nationalCourt\nationalCourt.csproj", "{BA4BAD2E-5C12-4563-B5EB-0010472540CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "springVacTrip", "springVacTrip\springVacTrip.csproj", "{0BAFFFB5-7210-4F3F-AF96-2D255E2514B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "springVacTrip", "springVacTrip\springVacTrip.csproj", "{0BAFFFB5-7210-4F3F-AF96-2D255E2514B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helloFrance", "helloFrance\helloFrance.csproj", "{DD598611-EC12-4E97-BC82-4C3C3EB8EA0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "helloFrance", "helloFrance\helloFrance.csproj", "{DD598611-EC12-4E97-BC82-4C3C3EB8EA0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lastStop", "lastStop\lastStop.csproj", "{B3CDBBB8-C7CF-463D-A589-F4CEEF94B2FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lastStop", "lastStop\lastStop.csproj", "{B3CDBBB8-C7CF-463D-A589-F4CEEF94B2FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theHuntingGames", "theHuntingGames\theHuntingGames.csproj", "{ABF0D9CC-0B5F-4FBF-81F0-3AF788BB26F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seizeTheFire", "seizeTheFire\seizeTheFire.csproj", "{80626F30-0E4C-482F-8ABE-E7F92987DF9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theFinalQuest", "theFinalQuest\theFinalQuest.csproj", "{B25FEB02-5DAC-4AC9-BD2B-6BABA53E62E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +81,18 @@ Global
 		{B3CDBBB8-C7CF-463D-A589-F4CEEF94B2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3CDBBB8-C7CF-463D-A589-F4CEEF94B2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3CDBBB8-C7CF-463D-A589-F4CEEF94B2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF0D9CC-0B5F-4FBF-81F0-3AF788BB26F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF0D9CC-0B5F-4FBF-81F0-3AF788BB26F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF0D9CC-0B5F-4FBF-81F0-3AF788BB26F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF0D9CC-0B5F-4FBF-81F0-3AF788BB26F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80626F30-0E4C-482F-8ABE-E7F92987DF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80626F30-0E4C-482F-8ABE-E7F92987DF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80626F30-0E4C-482F-8ABE-E7F92987DF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80626F30-0E4C-482F-8ABE-E7F92987DF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B25FEB02-5DAC-4AC9-BD2B-6BABA53E62E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25FEB02-5DAC-4AC9-BD2B-6BABA53E62E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25FEB02-5DAC-4AC9-BD2B-6BABA53E62E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25FEB02-5DAC-4AC9-BD2B-6BABA53E62E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
