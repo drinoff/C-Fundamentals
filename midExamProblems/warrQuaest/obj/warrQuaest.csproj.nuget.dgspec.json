@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Drinoff\\source\\midExamProblems\\warrQuaest\\warrQuaest.csproj": {}
+    "D:\\drinoff\\localRepo\\C-Fundamentals\\midExamProblems\\warrQuaest\\warrQuaest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Drinoff\\source\\midExamProblems\\warrQuaest\\warrQuaest.csproj": {
+    "D:\\drinoff\\localRepo\\C-Fundamentals\\midExamProblems\\warrQuaest\\warrQuaest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Drinoff\\source\\midExamProblems\\warrQuaest\\warrQuaest.csproj",
+        "projectUniqueName": "D:\\drinoff\\localRepo\\C-Fundamentals\\midExamProblems\\warrQuaest\\warrQuaest.csproj",
         "projectName": "warrQuaest",
-        "projectPath": "C:\\Users\\Drinoff\\source\\midExamProblems\\warrQuaest\\warrQuaest.csproj",
-        "packagesPath": "C:\\Users\\Drinoff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Drinoff\\source\\midExamProblems\\warrQuaest\\obj\\",
+        "projectPath": "D:\\drinoff\\localRepo\\C-Fundamentals\\midExamProblems\\warrQuaest\\warrQuaest.csproj",
+        "packagesPath": "C:\\Users\\drino\\.nuget\\packages\\",
+        "outputPath": "D:\\drinoff\\localRepo\\C-Fundamentals\\midExamProblems\\warrQuaest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Drinoff\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\drino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -56,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
