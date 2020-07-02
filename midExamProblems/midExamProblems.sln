@@ -43,13 +43,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "numberArray", "numberArray\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "distanceCalc", "distanceCalc\distanceCalc.csproj", "{87E2E62E-F634-4842-8BB1-C4A4D6FFDEE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "counterStrike", "counterStrike\counterStrike.csproj", "{8DA62581-DE3C-4894-946C-F3BC3B68CDB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "counterStrike", "counterStrike\counterStrike.csproj", "{8DA62581-DE3C-4894-946C-F3BC3B68CDB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tanksCollector", "tanksCollector\tanksCollector.csproj", "{D48A342E-4A39-42F7-8D03-2E6BBFFF2600}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tanksCollector", "tanksCollector\tanksCollector.csproj", "{D48A342E-4A39-42F7-8D03-2E6BBFFF2600}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "friendlistMaintanance", "friendlistMaintanance\friendlistMaintanance.csproj", "{0E73FCAB-65A3-4F82-A630-918AA9D6724E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "friendlistMaintanance", "friendlistMaintanance\friendlistMaintanance.csproj", "{0E73FCAB-65A3-4F82-A630-918AA9D6724E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "experienceGaining", "experienceGaining\experienceGaining.csproj", "{EB4C9AB4-7588-4332-9101-DBAE7D07A1C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "experienceGaining", "experienceGaining\experienceGaining.csproj", "{EB4C9AB4-7588-4332-9101-DBAE7D07A1C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inventory", "inventory\inventory.csproj", "{49B50DE4-AE56-40F5-8BE0-0F8EC6692EF7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "muOnline", "muOnline\muOnline.csproj", "{CABB3559-AA76-4431-8A83-9830AB07821C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bonusScoringSystem", "bonusScoringSystem\bonusScoringSystem.csproj", "{7035134E-5EE4-4EA7-AA70-F7C617E48C17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniKaraoke", "SoftUniKaraoke\SoftUniKaraoke.csproj", "{6BA0B7C3-58A2-4F1E-B6B4-ABE207955441}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shoppingList", "shoppingList\shoppingList.csproj", "{263BE9FE-1EAB-42D9-A8AE-F8403A5DEDBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +163,26 @@ Global
 		{EB4C9AB4-7588-4332-9101-DBAE7D07A1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB4C9AB4-7588-4332-9101-DBAE7D07A1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB4C9AB4-7588-4332-9101-DBAE7D07A1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B50DE4-AE56-40F5-8BE0-0F8EC6692EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B50DE4-AE56-40F5-8BE0-0F8EC6692EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B50DE4-AE56-40F5-8BE0-0F8EC6692EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B50DE4-AE56-40F5-8BE0-0F8EC6692EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CABB3559-AA76-4431-8A83-9830AB07821C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABB3559-AA76-4431-8A83-9830AB07821C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABB3559-AA76-4431-8A83-9830AB07821C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABB3559-AA76-4431-8A83-9830AB07821C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7035134E-5EE4-4EA7-AA70-F7C617E48C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7035134E-5EE4-4EA7-AA70-F7C617E48C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7035134E-5EE4-4EA7-AA70-F7C617E48C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7035134E-5EE4-4EA7-AA70-F7C617E48C17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA0B7C3-58A2-4F1E-B6B4-ABE207955441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA0B7C3-58A2-4F1E-B6B4-ABE207955441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA0B7C3-58A2-4F1E-B6B4-ABE207955441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA0B7C3-58A2-4F1E-B6B4-ABE207955441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{263BE9FE-1EAB-42D9-A8AE-F8403A5DEDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263BE9FE-1EAB-42D9-A8AE-F8403A5DEDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263BE9FE-1EAB-42D9-A8AE-F8403A5DEDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263BE9FE-1EAB-42D9-A8AE-F8403A5DEDBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
