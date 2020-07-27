@@ -54,7 +54,7 @@ namespace heroesOfCodeAndLogic4
                         currentHero.HP -= damageTaken;
                         if (currentHero.HP > 0)
                         {
-                            Console.WriteLine($"{currentHero.HP} was hit for {damageTaken} HP by {attacker} and now has {currentHero.HP} HP left!");
+                            Console.WriteLine($"{currentHero.Name} was hit for {damageTaken} HP by {attacker} and now has {currentHero.HP} HP left!");
                         }
                         else
                         {
@@ -100,7 +100,7 @@ namespace heroesOfCodeAndLogic4
             foreach (var hero in heroes.OrderByDescending(x=>x.HP).ThenBy(x=>x.Name))
             {
                 Console.WriteLine(hero.Name);
-                Console.WriteLine($"HP: {hero.HP}");
+                Console.WriteLine($"  HP: {hero.HP}");
                 Console.WriteLine($"MP: {hero.MP}");
             }
         }
