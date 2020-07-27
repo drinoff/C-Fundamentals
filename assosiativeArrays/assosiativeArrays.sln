@@ -21,15 +21,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "legendaryFarming", "legenda
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "orders", "orders\orders.csproj", "{23BE09FC-E2C0-49A3-A16B-E101E05F756E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "softUniParking", "softUniParking\softUniParking.csproj", "{22C82F04-018B-4DDF-8E7B-AA4CF0006F5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "softUniParking", "softUniParking\softUniParking.csproj", "{22C82F04-018B-4DDF-8E7B-AA4CF0006F5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "courses", "courses\courses.csproj", "{19F4884B-A22B-45AA-9D58-D0B59BE4BC56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "courses", "courses\courses.csproj", "{19F4884B-A22B-45AA-9D58-D0B59BE4BC56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "studentAcad", "studentAcad\studentAcad.csproj", "{DDBB2306-E09B-4BDD-9C5E-D064FFA8092D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "studentAcad", "studentAcad\studentAcad.csproj", "{DDBB2306-E09B-4BDD-9C5E-D064FFA8092D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "companyUsers", "companyUsers\companyUsers.csproj", "{79D4F4AD-3372-4F25-8DFF-356FCD6CC505}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "companyUsers", "companyUsers\companyUsers.csproj", "{79D4F4AD-3372-4F25-8DFF-356FCD6CC505}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forceBook", "forceBook\forceBook.csproj", "{1766D0CD-4CB6-4C55-AC8D-2AA569E28767}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "forceBook", "forceBook\forceBook.csproj", "{1766D0CD-4CB6-4C55-AC8D-2AA569E28767}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
