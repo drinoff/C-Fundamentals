@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "secretChat", "secretChat\secretChat.csproj", "{D97FE979-080E-405B-AF02-5644D91C769A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mirrorWords", "mirrorWords\mirrorWords.csproj", "{FE81DD90-0BAC-4B6E-830A-314DC3E1D4E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "needForSpeed3", "needForSpeed3\needForSpeed3.csproj", "{DC133DFA-C9A4-47D9-A2A9-67721F518A54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "passwordReset", "passwordReset\passwordReset.csproj", "{9961E500-4211-4A85-AB98-79FB592983A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fancyBarcode", "fancyBarcode\fancyBarcode.csproj", "{273304BD-F826-4AA1-A9C9-F35AD0A14663}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heroesOfCodeAndLogic4", "heroesOfCodeAndLogic4\heroesOfCodeAndLogic4.csproj", "{B4A264F3-9511-416E-8453-D8261441E4FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D97FE979-080E-405B-AF02-5644D91C769A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97FE979-080E-405B-AF02-5644D91C769A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97FE979-080E-405B-AF02-5644D91C769A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97FE979-080E-405B-AF02-5644D91C769A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE81DD90-0BAC-4B6E-830A-314DC3E1D4E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE81DD90-0BAC-4B6E-830A-314DC3E1D4E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE81DD90-0BAC-4B6E-830A-314DC3E1D4E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE81DD90-0BAC-4B6E-830A-314DC3E1D4E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC133DFA-C9A4-47D9-A2A9-67721F518A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC133DFA-C9A4-47D9-A2A9-67721F518A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC133DFA-C9A4-47D9-A2A9-67721F518A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC133DFA-C9A4-47D9-A2A9-67721F518A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9961E500-4211-4A85-AB98-79FB592983A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9961E500-4211-4A85-AB98-79FB592983A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9961E500-4211-4A85-AB98-79FB592983A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9961E500-4211-4A85-AB98-79FB592983A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{273304BD-F826-4AA1-A9C9-F35AD0A14663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273304BD-F826-4AA1-A9C9-F35AD0A14663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273304BD-F826-4AA1-A9C9-F35AD0A14663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273304BD-F826-4AA1-A9C9-F35AD0A14663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A264F3-9511-416E-8453-D8261441E4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A264F3-9511-416E-8453-D8261441E4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A264F3-9511-416E-8453-D8261441E4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A264F3-9511-416E-8453-D8261441E4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74774BC0-478D-46D0-83DC-BB3D231D5AEA}
+	EndGlobalSection
+EndGlobal
