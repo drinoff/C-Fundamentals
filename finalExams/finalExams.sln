@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fancyBarcode", "fancyBarcod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heroesOfCodeAndLogic4", "heroesOfCodeAndLogic4\heroesOfCodeAndLogic4.csproj", "{B4A264F3-9511-416E-8453-D8261441E4FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "activationKeys", "activationKeys\activationKeys.csproj", "{CA3FD319-61A6-44D1-B54E-56E55E9CE003}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{B4A264F3-9511-416E-8453-D8261441E4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4A264F3-9511-416E-8453-D8261441E4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4A264F3-9511-416E-8453-D8261441E4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA3FD319-61A6-44D1-B54E-56E55E9CE003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3FD319-61A6-44D1-B54E-56E55E9CE003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3FD319-61A6-44D1-B54E-56E55E9CE003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3FD319-61A6-44D1-B54E-56E55E9CE003}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
