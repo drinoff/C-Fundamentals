@@ -47,6 +47,7 @@ namespace activationKeys
                         startIndex = int.Parse(command[1]);
                         endIndex = int.Parse(command[2]);
                         initKey = initKey.Remove(startIndex, endIndex - startIndex);
+                        Console.WriteLine(initKey);
                         break;
                 }
                 input = Console.ReadLine();
