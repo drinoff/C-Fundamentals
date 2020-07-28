@@ -9,13 +9,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mirrorWords", "mirrorWords\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "needForSpeed3", "needForSpeed3\needForSpeed3.csproj", "{DC133DFA-C9A4-47D9-A2A9-67721F518A54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "passwordReset", "passwordReset\passwordReset.csproj", "{9961E500-4211-4A85-AB98-79FB592983A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "passwordReset", "passwordReset\passwordReset.csproj", "{9961E500-4211-4A85-AB98-79FB592983A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fancyBarcode", "fancyBarcode\fancyBarcode.csproj", "{273304BD-F826-4AA1-A9C9-F35AD0A14663}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fancyBarcode", "fancyBarcode\fancyBarcode.csproj", "{273304BD-F826-4AA1-A9C9-F35AD0A14663}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heroesOfCodeAndLogic4", "heroesOfCodeAndLogic4\heroesOfCodeAndLogic4.csproj", "{B4A264F3-9511-416E-8453-D8261441E4FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "heroesOfCodeAndLogic4", "heroesOfCodeAndLogic4\heroesOfCodeAndLogic4.csproj", "{B4A264F3-9511-416E-8453-D8261441E4FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "activationKeys", "activationKeys\activationKeys.csproj", "{CA3FD319-61A6-44D1-B54E-56E55E9CE003}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "activationKeys", "activationKeys\activationKeys.csproj", "{CA3FD319-61A6-44D1-B54E-56E55E9CE003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emojiDetector", "emojiDetector\emojiDetector.csproj", "{BC1D98E7-6AC2-4BBC-8631-EDB81E41B737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pirates", "pirates\pirates.csproj", "{B12511C9-F4B0-4EDC-B2A1-16A14C633541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "warriorsQuest", "warriorsQuest\warriorsQuest.csproj", "{CE3AFE75-DB82-4C18-B53B-7BF30B86DC86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "songEnqryption", "songEnqryption\songEnqryption.csproj", "{845ADB44-FFB3-48B8-9E71-3237EDDCC176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "concert", "concert\concert.csproj", "{D8C23C30-13B1-4583-AAC7-4988136610E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +61,26 @@ Global
 		{CA3FD319-61A6-44D1-B54E-56E55E9CE003}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA3FD319-61A6-44D1-B54E-56E55E9CE003}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA3FD319-61A6-44D1-B54E-56E55E9CE003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1D98E7-6AC2-4BBC-8631-EDB81E41B737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1D98E7-6AC2-4BBC-8631-EDB81E41B737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1D98E7-6AC2-4BBC-8631-EDB81E41B737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1D98E7-6AC2-4BBC-8631-EDB81E41B737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B12511C9-F4B0-4EDC-B2A1-16A14C633541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B12511C9-F4B0-4EDC-B2A1-16A14C633541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B12511C9-F4B0-4EDC-B2A1-16A14C633541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B12511C9-F4B0-4EDC-B2A1-16A14C633541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3AFE75-DB82-4C18-B53B-7BF30B86DC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3AFE75-DB82-4C18-B53B-7BF30B86DC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3AFE75-DB82-4C18-B53B-7BF30B86DC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3AFE75-DB82-4C18-B53B-7BF30B86DC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845ADB44-FFB3-48B8-9E71-3237EDDCC176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845ADB44-FFB3-48B8-9E71-3237EDDCC176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845ADB44-FFB3-48B8-9E71-3237EDDCC176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845ADB44-FFB3-48B8-9E71-3237EDDCC176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C23C30-13B1-4583-AAC7-4988136610E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C23C30-13B1-4583-AAC7-4988136610E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C23C30-13B1-4583-AAC7-4988136610E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C23C30-13B1-4583-AAC7-4988136610E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
