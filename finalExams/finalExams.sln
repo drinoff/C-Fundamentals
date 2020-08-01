@@ -17,19 +17,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "heroesOfCodeAndLogic4", "he
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "activationKeys", "activationKeys\activationKeys.csproj", "{CA3FD319-61A6-44D1-B54E-56E55E9CE003}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emojiDetector", "emojiDetector\emojiDetector.csproj", "{BC1D98E7-6AC2-4BBC-8631-EDB81E41B737}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "emojiDetector", "emojiDetector\emojiDetector.csproj", "{BC1D98E7-6AC2-4BBC-8631-EDB81E41B737}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pirates", "pirates\pirates.csproj", "{B12511C9-F4B0-4EDC-B2A1-16A14C633541}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pirates", "pirates\pirates.csproj", "{B12511C9-F4B0-4EDC-B2A1-16A14C633541}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "warriorsQuest", "warriorsQuest\warriorsQuest.csproj", "{CE3AFE75-DB82-4C18-B53B-7BF30B86DC86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "warriorsQuest", "warriorsQuest\warriorsQuest.csproj", "{CE3AFE75-DB82-4C18-B53B-7BF30B86DC86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "songEnqryption", "songEnqryption\songEnqryption.csproj", "{845ADB44-FFB3-48B8-9E71-3237EDDCC176}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "songEnqryption", "songEnqryption\songEnqryption.csproj", "{845ADB44-FFB3-48B8-9E71-3237EDDCC176}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "concert", "concert\concert.csproj", "{D8C23C30-13B1-4583-AAC7-4988136610E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "concert", "concert\concert.csproj", "{D8C23C30-13B1-4583-AAC7-4988136610E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isleOfManTTRace", "isleOfManTTRace\isleOfManTTRace.csproj", "{1727BF28-E5EB-4095-B201-A754DA927946}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "isleOfManTTRace", "isleOfManTTRace\isleOfManTTRace.csproj", "{1727BF28-E5EB-4095-B201-A754DA927946}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bossRush", "bossRush\bossRush.csproj", "{340710B7-6BAF-4158-8261-F4406E306B80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bossRush", "bossRush\bossRush.csproj", "{340710B7-6BAF-4158-8261-F4406E306B80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nikuldensCharity", "nikuldensCharity\nikuldensCharity.csproj", "{3412BA9F-8AEB-4909-BF2D-01A20A7C86DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "messageTranslator", "messageTranslator\messageTranslator.csproj", "{018D23D4-8F7F-4D53-A40B-C8EE1562C6B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nikuldensMeals", "nikuldensMeals\nikuldensMeals.csproj", "{32B34BCA-FB50-404D-89BA-77CE39753E9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +99,18 @@ Global
 		{340710B7-6BAF-4158-8261-F4406E306B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{340710B7-6BAF-4158-8261-F4406E306B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{340710B7-6BAF-4158-8261-F4406E306B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3412BA9F-8AEB-4909-BF2D-01A20A7C86DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3412BA9F-8AEB-4909-BF2D-01A20A7C86DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3412BA9F-8AEB-4909-BF2D-01A20A7C86DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3412BA9F-8AEB-4909-BF2D-01A20A7C86DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018D23D4-8F7F-4D53-A40B-C8EE1562C6B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018D23D4-8F7F-4D53-A40B-C8EE1562C6B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018D23D4-8F7F-4D53-A40B-C8EE1562C6B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018D23D4-8F7F-4D53-A40B-C8EE1562C6B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B34BCA-FB50-404D-89BA-77CE39753E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B34BCA-FB50-404D-89BA-77CE39753E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B34BCA-FB50-404D-89BA-77CE39753E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B34BCA-FB50-404D-89BA-77CE39753E9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
