@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "songEnqryption", "songEnqry
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "concert", "concert\concert.csproj", "{D8C23C30-13B1-4583-AAC7-4988136610E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isleOfManTTRace", "isleOfManTTRace\isleOfManTTRace.csproj", "{1727BF28-E5EB-4095-B201-A754DA927946}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bossRush", "bossRush\bossRush.csproj", "{340710B7-6BAF-4158-8261-F4406E306B80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{D8C23C30-13B1-4583-AAC7-4988136610E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8C23C30-13B1-4583-AAC7-4988136610E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8C23C30-13B1-4583-AAC7-4988136610E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1727BF28-E5EB-4095-B201-A754DA927946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1727BF28-E5EB-4095-B201-A754DA927946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1727BF28-E5EB-4095-B201-A754DA927946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1727BF28-E5EB-4095-B201-A754DA927946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{340710B7-6BAF-4158-8261-F4406E306B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340710B7-6BAF-4158-8261-F4406E306B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340710B7-6BAF-4158-8261-F4406E306B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340710B7-6BAF-4158-8261-F4406E306B80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

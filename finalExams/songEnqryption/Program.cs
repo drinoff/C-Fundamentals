@@ -9,8 +9,8 @@ namespace songEnqryption
         static void Main(string[] args)
         {
             var input = Console.ReadLine();
-            var pattern = @"^(?<name>[A-Z] ?[a-z]+ ?[a-z]+'? ?[a-z]+'? ?[a-z]+ ?)$";
-            var songPattern = @"^(?<song>[A-Z ]+)$";
+            var pattern = @"^(?<name>[A-Z][a-z\s']+)$";
+            var songPattern = @"^(?<song>[A-Z\s]+)$";
             StringBuilder sb = new StringBuilder();
             while (input != "end")
             {
