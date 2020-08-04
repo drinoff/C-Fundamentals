@@ -58,7 +58,7 @@ namespace nikuldensMeals
             }
             foreach (var guest in guestMeals.OrderByDescending(x => x.Value.Count).ThenBy(x => x.Key))
             {
-                Console.WriteLine($"{guest.Key}: {string.Join(" ", guest.Value)}");
+                Console.WriteLine($"{guest.Key}: {string.Join(", ", guest.Value)}");
 
             };
             Console.WriteLine($"Unliked meals: {unliked}");
