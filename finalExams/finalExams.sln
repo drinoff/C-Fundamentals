@@ -47,11 +47,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "password", "password\passwo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "followers", "followers\followers.csproj", "{B5995B4E-AA5D-4A34-8950-B8AA57C54669}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringManipulator", "stringManipulator\stringManipulator.csproj", "{5BE58C82-1D27-4A35-B310-EB1B3285EF44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "stringManipulator", "stringManipulator\stringManipulator.csproj", "{5BE58C82-1D27-4A35-B310-EB1B3285EF44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "msgEncrypter", "msgEncrypter\msgEncrypter.csproj", "{61A0F447-38DB-4B2A-8C0B-9942CD0EA0B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "msgEncrypter", "msgEncrypter\msgEncrypter.csproj", "{61A0F447-38DB-4B2A-8C0B-9942CD0EA0B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "battleManager", "battleManager\battleManager.csproj", "{E83291EA-1816-41BB-B58B-02FCF72760EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "battleManager", "battleManager\battleManager.csproj", "{E83291EA-1816-41BB-B58B-02FCF72760EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test reverse", "test reverse\test reverse.csproj", "{3BB95731-8067-49BD-8FF5-34C147FDB9E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{E83291EA-1816-41BB-B58B-02FCF72760EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E83291EA-1816-41BB-B58B-02FCF72760EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E83291EA-1816-41BB-B58B-02FCF72760EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB95731-8067-49BD-8FF5-34C147FDB9E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB95731-8067-49BD-8FF5-34C147FDB9E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB95731-8067-49BD-8FF5-34C147FDB9E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB95731-8067-49BD-8FF5-34C147FDB9E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
